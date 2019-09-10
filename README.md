@@ -14,20 +14,4 @@
         </tr>
     </tbody>
 </table>
-<style>
-    table{
-        width:100%;
-    }
-    tr{
-        width:100%;
-    }
-    td{
-        width:34%;
-    }
-    a{
-        font:consolus;
-    }
-    a:hover{
-        color:#FFBF00;
-    }
-</style>
+
